@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![Vadim01j12feradim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim01j12feradim&theme=dark&hide_border=false)
 ![Vadim01j12feradim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim01j12feradim&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim01j12feradim&hide_progress=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vadim01j12feradim)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
